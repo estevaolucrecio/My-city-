@@ -1,0 +1,27 @@
+html {
+    width: 620px;
+    background-color: rgb(9, 173, 223);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+.boxcentral{
+display: flex;
+    flex-direction: row;
+}
+.box1 {
+    width: 700px; 
+    margin: 1%;
+font-family: Arial, Helvetica, sans-serif; 
+background-color: darkcyan;
+
+}
+.box2{
+    background-color: darkcyan;
+   width: 700px;
+   margin: 1%;
+font-family: Arial, Helvetica, sans-serif; 
+}
+.container{
+  background-color:darkcyan;
+}
+
